@@ -6,3 +6,4 @@ def move(n,a,buffer,c):
 	move(1,a,buffer,c)
 	move(n-1,buffer,a,c)
 move(3,'a','b','c')
+print "Hello world"
